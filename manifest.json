@@ -1,0 +1,25 @@
+{
+  "name": "Pencraft",
+  "short_name": "Pencraft",
+  "description": "Offline-first note taking and productivity app",
+  "start_url": "./pencraft-notes",
+  "scope": "./pencraft-notes",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#154c79",
+  "theme_color": "#154c79",
+  "icons": [
+    {
+      "src": "./pencraft-notes/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./pencraft-notes/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
